@@ -1,3 +1,3 @@
 Selectable = true
 Priority = 6
-Category = "Other"
+Category = "Misc"
